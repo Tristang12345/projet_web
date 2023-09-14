@@ -1,0 +1,26 @@
+body
+{
+	background-color: #DAE0E3;
+	font-family: Times New Roman, Arial, Verdana;
+
+}
+figure
+{
+	float: right;
+	border: 1px solid black;
+	box-shadow: 2px 2px 4px black;
+}
+
+h1
+{
+	text-align: center;
+}
+h2
+{
+	color: maroon;
+}
+
+.soustitre
+{
+	text-align: center;
+}
