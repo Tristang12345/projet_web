@@ -24,3 +24,13 @@ h2
 {
 	text-align: center;
 }
+
+@media screen and (max-widht : 768px)
+{
+	position: unset;
+	margin: auto;
+}
+
+#fin:hover{
+	font-weight: bold;
+}
