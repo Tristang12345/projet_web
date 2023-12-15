@@ -301,7 +301,7 @@ background-color: #615a5a;
 /* Styles pour les libellés des champs de formulaire */
 .form-group label {
   display: block; /* Affiche le libellé sur une nouvelle ligne */
-  font-weight: bold;/texte en gras/
+  font-weight: bold;/*texte en gras*/
   margin-bottom: 5px; /* Espacement en bas du libellé */
 }
 
@@ -364,13 +364,13 @@ background-color: #615a5a;
   border-radius: 5px;
   cursor: pointer;
   padding: 10px 20px;
-  transition: background-color 0.3s ease;/ease pour fluidifier la montée/
+  transition: background-color 0.3s ease;
 }
 
 #scrollTopBtn:hover {
   background-color: #0056b3;
 }
-/on passe au footer/
+/*on passe au footer*/
 
 footer {
   background-color: #463737;
